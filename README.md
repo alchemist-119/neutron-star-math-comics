@@ -200,6 +200,26 @@
 
 ![中子星數學思考漫畫](01-E12-number-theory-question-map.png)
 
+### 一-45
+
+![中子星數學思考漫畫](01-R01-gcf-shared-divisibility-intersection.png)
+
+### 一-46
+
+![中子星數學思考漫畫](01-R02-lcm-first-common-landing.png)
+
+### 一-47
+
+![中子星數學思考漫畫](01-R03-same-numbers-different-models.png)
+
+### 一-48
+
+![中子星數學思考漫畫](01-R04-gcf-lcm-one-prime-factor-model.png)
+
+### 一-49
+
+![中子星數學思考漫畫](01-R05-product-gcf-lcm-identity.png)
+
 ---
 
 # 🕵️ 第二單元：倍數偵探
